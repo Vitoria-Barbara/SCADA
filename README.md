@@ -103,6 +103,24 @@ START SIMULATION RT:
 
 ![image](https://github.com/user-attachments/assets/2bce4cca-cbf8-4777-a733-d49fa7551cd4)
 
+GO ON CONNECTIONS AND INTERCONECTION BUF
+
+![image](https://github.com/user-attachments/assets/f18edde0-ca4b-41dc-ba3a-f6065590fd77)
+
+CLICK ON HMI_CONNECTION
+![image](https://github.com/user-attachments/assets/6c99c61c-40ad-444e-a690-2f78c24c1188)
+
+
+EXCLUI O Q TAVA E ADD UM COMUNICATION MODULES MANU DIREITA CP IE E ADD WIN CC ADV
+PEGUEI A SCREN 1 E LEVEI PARA ESSE NOVO DEVICE 
+VOU TER Q RECOLOCAR AS VARIAIS NO BUTAO , ALIAS SOMENTE UMA E VOU TER Q RE ENDEREÇAR AS MEMORIAS USADAS NO PLC1 NO MAIS POIS ATIVEI O MEMORY CLOCK AI DA CONFLITO
+
+
+![image](https://github.com/user-attachments/assets/b2706388-de3c-4ac9-ad17-307f2fd40f34)
+
+![image](https://github.com/user-attachments/assets/54b928bd-1e81-40d8-bce0-5a6962c4a3de)
+
+
 
 
 
