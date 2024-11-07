@@ -21,9 +21,9 @@ if your version do not have  the license, this my case, so , a open this file in
 
 in upper is the scren 1: now you ony have to add whatever you want.
 
-here, i will introduce a simple button to system on and other for off. 
-
 ![image](https://github.com/user-attachments/assets/640421fa-250d-4962-be2a-5762736caf0b)
+
+here, i will introduce a simple button to system on and other for off. 
 
 ![image](https://github.com/user-attachments/assets/37ecc64f-eb88-46b5-84e9-f6353bd2b570)
 
@@ -35,6 +35,17 @@ GO TO THE APPEARANCE AND CHANGE FILL PATTERN  FOR SOLID COLOR. ANDD IN COLOR CHO
 
 ![image](https://github.com/user-attachments/assets/b10da73b-cb03-4e3d-8cb6-ea16421eaa11)
 
-.
+NEXT STEP IS:
+
+PUT THE LOGIC  IN BUTONS:
+
+REMENBER TO SAVE THIS ALWAYS, BECAUSE THIS SOFTWARE NOTSAVE AUTOMATICALY!!!
+
+
+LETS PAUSE THE DEV. IN HIM, AND GO TO PLC_1 -> Program bloks -> MAIN
+
+![image](https://github.com/user-attachments/assets/df3602a0-a843-4098-aba1-b59647e13d9b)
+
+
 
  
