@@ -46,6 +46,88 @@ LETS PAUSE THE DEV. IN HIM, AND GO TO PLC_1 -> Program bloks -> MAIN
 
 ![image](https://github.com/user-attachments/assets/df3602a0-a843-4098-aba1-b59647e13d9b)
 
+![image](https://github.com/user-attachments/assets/9739a934-bf19-47a9-bcff-2be6307db940)
+
+![image](https://github.com/user-attachments/assets/1dc6e87a-2228-4db7-b717-27c5a55e4816)
+
+![image](https://github.com/user-attachments/assets/b0fa496b-4a39-4321-80b2-6a9bedee2f75)
+
+![image](https://github.com/user-attachments/assets/98425c5f-af02-47a3-854f-9e21e8c47bd2)
+
+SAVE AND DIVEDED SCREM :
+
+![image](https://github.com/user-attachments/assets/93f6fa72-938e-4f93-802c-1d853dd7cb9c)
+
+START SIMULATION FOR TEST :
+
+![image](https://github.com/user-attachments/assets/0cc71613-6f2d-456d-aaf0-64d355d0450a)
+
+
+DOWLOAD TO DEVICE :
+![image](https://github.com/user-attachments/assets/9273cc1a-4206-4a47-ab4e-0592e3e93d09)
+
+![image](https://github.com/user-attachments/assets/9b59429e-38ca-47e4-b647-f60cc309a553)
+
+IS IMPORTANT DESSELECTED THIS:
+
+![image](https://github.com/user-attachments/assets/67e2f806-7469-4442-97a9-973bb7d16bc3)
+
+![image](https://github.com/user-attachments/assets/a1851af8-0cc7-41a7-8bf3-6992c149677f)
+
+NECESERY TOO SELECTED PUT/GET:
+
+![image](https://github.com/user-attachments/assets/397c031c-5729-49c0-b702-7faaaed7dcb3)
+
+OK:
+![image](https://github.com/user-attachments/assets/44799be4-db1b-4375-98aa-4c058cac0fb2)
+
+OK AGAIN:
+
+![image](https://github.com/user-attachments/assets/f0b68332-d62f-40b2-94b3-5aa3c978e4b9)
+
+
+PUT ON PLC:
+![image](https://github.com/user-attachments/assets/f3e718b1-4502-4850-8e00-f7c9909ace1b)
+
+LOAD
+![image](https://github.com/user-attachments/assets/b6477cc5-1af9-49ff-9edf-e1b6c4df0618)
+
+START MODULE:
+![image](https://github.com/user-attachments/assets/66618660-9ba3-49dc-aa7b-7a065be0d298)
+
+AND FINISH
+
+NOW CLICK ON DE SCREEN HMI:
+
+START SIMULATION RT:
+
+![image](https://github.com/user-attachments/assets/2bce4cca-cbf8-4777-a733-d49fa7551cd4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  
