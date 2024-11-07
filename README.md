@@ -122,6 +122,12 @@ VOU TER Q RECOLOCAR AS VARIAIS NO BUTAO , ALIAS SOMENTE UMA E VOU TER Q RE ENDER
 
 
 
+![image](https://github.com/user-attachments/assets/c58a85f1-54ac-4de7-8c99-3a271d31cb1d)
+![image](https://github.com/user-attachments/assets/ccfd3f6b-1374-4441-887f-f4f234f8dfee)
+
+
+
+
 
 
 
