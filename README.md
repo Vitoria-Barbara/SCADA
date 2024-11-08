@@ -126,7 +126,7 @@ VOU TER Q RECOLOCAR AS VARIAIS NO BUTAO , ALIAS SOMENTE UMA E VOU TER Q RE ENDER
 ![image](https://github.com/user-attachments/assets/ccfd3f6b-1374-4441-887f-f4f234f8dfee)
 
 
-
+https://www.youtube.com/watch?v=96QfxMVIXyI
 
 
 
