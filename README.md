@@ -1,3 +1,9 @@
+[Assista ao vídeo da demonstração](https://github.com/Vitoria-Barbara/SCADA/blob/main/assets/SCADA%20demonstration.mp4)
+
+<video src="https://github.com/Vitoria-Barbara/SCADA/blob/main/assets/SCADA%20demonstration.mp4" controls width="600"></video>
+
+
+
 # SCADA System in TIA Portal: Step-by-Step Guide  
 
 ### **Creating a Project**  
