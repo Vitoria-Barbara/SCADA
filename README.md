@@ -1,6 +1,7 @@
 ## [Assista ao vídeo da demonstração](https://github.com/Vitoria-Barbara/SCADA/blob/main/assets/SCADA%20demonstration.mp4)
 
-!(assets/scada%20gif.mp4)
+(assets/SCADA-demonstration.gif)
+
 
 
 
