@@ -5,12 +5,12 @@ TIA PORTAL - SISTEMA SCADA
 #### Creating a Project  
 
 1. **Create a new project** in TIA Portal, selecting the specific PLC you plan to use.
-2. 
+   
 ![image](https://github.com/user-attachments/assets/0fd46800-3449-4d05-bd03-cc903dcdaeca)
 
 ![image](https://github.com/user-attachments/assets/a9b77972-c961-4f45-9dff-fc00c47cb9ba)
 
-3. **Add a new device** with the specifications of your PLC.
+2. **Add a new device** with the specifications of your PLC.
 
 ![image](https://github.com/user-attachments/assets/535dcef2-dadd-4b96-8128-52224e432adc) 
 ![image](https://github.com/user-attachments/assets/535dcef2-dadd-4b96-8128-52224e432adc)
