@@ -1,4 +1,4 @@
-## [Assista ao vídeo da demonstração](https://github.com/Vitoria-Barbara/SCADA/blob/main/assets/SCADA%20demonstration.mp4)
+## [Watch the demo video](https://github.com/Vitoria-Barbara/SCADA/blob/main/assets/SCADA%20demonstration.mp4)
 
 ![demonstração](assets/SCADA-demonstration.gif)
 
