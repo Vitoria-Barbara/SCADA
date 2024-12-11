@@ -1,7 +1,3 @@
-Here’s the updated and properly formatted SCADA guide with the images placed coherently alongside the text:
-
----
-
 # SCADA System in TIA Portal: Step-by-Step Guide  
 
 ### **Creating a Project**  
