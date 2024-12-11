@@ -1,48 +1,48 @@
 # SCADA
 TIA PORTAL - SISTEMA SCADA 
+### SCADA System in TIA Portal: Step-by-Step Guide  
 
-CREATED A PROJECT NORMALY, WITH A PLC ESPECIFIC, THAT YOU CHOOSE AND AFTER ADD NEW DEVICE WITH THIS ESPECIFICATION:
+#### Creating a Project  
 
+1. **Create a new project** in TIA Portal, selecting the specific PLC you plan to use.
+2. 
 ![image](https://github.com/user-attachments/assets/0fd46800-3449-4d05-bd03-cc903dcdaeca)
- 
-NEXT THIS, YOU MUST BE TO HAVE THIS SCREEN:
 
 ![image](https://github.com/user-attachments/assets/a9b77972-c961-4f45-9dff-fc00c47cb9ba)
 
- SO.. 
-OPEN DE HMI_RT_1 IN THE LEFT MENU, OPEN DTHE SCREENS AND ADD NEW SCREEN:
+3. **Add a new device** with the specifications of your PLC.
 
+![image](https://github.com/user-attachments/assets/535dcef2-dadd-4b96-8128-52224e432adc) 
 ![image](https://github.com/user-attachments/assets/535dcef2-dadd-4b96-8128-52224e432adc)
 
-if your version do not have  the license, this my case, so , a open this file in the v18 (v19 -> v18), it must be work:
+---
 
+#### HMI Configuration  
 
-![image](https://github.com/user-attachments/assets/6f901939-c441-4030-80d7-9e8dbf03f8c5)
+1. Open the **HMI_RT_1** section from the left-hand menu.  
+2. Go to **Screens** and **add a new screen**.  
 
-in upper is the scren 1: now you ony have to add whatever you want.
+---
 
+#### Editing the Screen  
+
+1. Create or edit a screen. In this example, we’ll add two simple buttons:  
+   - One button for **System ON**.  
+   - Another button for **System OFF**.  
+
+2. **Customize the buttons**:  
+   - Double-click the button to open its **Properties** menu.  
+   - Go to the **Appearance** section.  
+   - Change the **Fill Pattern** to a **Solid Color** and select the desired color.  
 ![image](https://github.com/user-attachments/assets/640421fa-250d-4962-be2a-5762736caf0b)
+---
 
-here, i will introduce a simple button to system on and other for off. 
+#### Adding Logic to the Buttons  
 
-![image](https://github.com/user-attachments/assets/37ecc64f-eb88-46b5-84e9-f6353bd2b570)
+1. Ensure you save your work frequently, as TIA Portal does not auto-save.  
+2. Navigate to **PLC_1 -> Program Blocks -> MAIN**.  
+3. Implement the logic required to handle the ON and OFF actions using ladder logic, or your preferred programming method.  
 
-DO THE DOBLE CLIC INSIDE THE BUTTON AND IS MUST BE OPPEN DE MENU PROPERTIES
-
-![image](https://github.com/user-attachments/assets/692534a7-ad04-4b01-a68a-6c13bdb82c12)
-
-GO TO THE APPEARANCE AND CHANGE FILL PATTERN  FOR SOLID COLOR. ANDD IN COLOR CHOSE ONE COLOR THAT YOU WANT
-
-![image](https://github.com/user-attachments/assets/b10da73b-cb03-4e3d-8cb6-ea16421eaa11)
-
-NEXT STEP IS:
-
-PUT THE LOGIC  IN BUTONS:
-
-REMENBER TO SAVE THIS ALWAYS, BECAUSE THIS SOFTWARE NOTSAVE AUTOMATICALY!!!
-
-
-LETS PAUSE THE DEV. IN HIM, AND GO TO PLC_1 -> Program bloks -> MAIN
 
 ![image](https://github.com/user-attachments/assets/df3602a0-a843-4098-aba1-b59647e13d9b)
 
@@ -53,6 +53,82 @@ LETS PAUSE THE DEV. IN HIM, AND GO TO PLC_1 -> Program bloks -> MAIN
 ![image](https://github.com/user-attachments/assets/b0fa496b-4a39-4321-80b2-6a9bedee2f75)
 
 ![image](https://github.com/user-attachments/assets/98425c5f-af02-47a3-854f-9e21e8c47bd2)
+
+---
+
+#### Simulation  
+
+1. Save your project and **start a simulation test**:  
+   - Use the **simulator tool** to test your configurations.  
+
+---
+
+#### Downloading to the Device  
+
+1. Click **Download to Device**.  
+2. Ensure the following settings:  
+   - Uncheck any options that may cause conflicts.  
+   - Enable **PUT/GET communication** under the PLC communication settings.  
+3. Confirm your configurations and click **Load**.  
+4. **Start the module** on the PLC after loading.  
+
+---
+
+#### HMI Simulation  
+
+1. Click on the **HMI screen** and start the **Runtime simulation**.  
+2. Ensure the HMI is properly connected to the PLC.  
+3. Use the **HMI Connection** section to verify or establish communication.
+4. 
+![image](https://github.com/user-attachments/assets/37ecc64f-eb88-46b5-84e9-f6353bd2b570)
+
+![image](https://github.com/user-attachments/assets/692534a7-ad04-4b01-a68a-6c13bdb82c12)
+
+![image](https://github.com/user-attachments/assets/b10da73b-cb03-4e3d-8cb6-ea16421eaa11)
+
+![image](https://github.com/user-attachments/assets/b10da73b-cb03-4e3d-8cb6-ea16421eaa11)
+
+---
+
+#### Advanced Configuration  
+
+1. If necessary, add a **communication module** (e.g., CP IE) for advanced setups.  
+2. Reconfigure variables and readdress memory locations in the PLC as needed, especially if there are conflicts with the **Memory Clock**.  
+
+---
+
+#### Final Testing  
+
+1. Test the system thoroughly by interacting with the HMI and PLC to ensure the logic and communications are functioning as expected.  
+2. Make any necessary adjustments to the buttons, logic, or communication settings.  
+
+--- 
+
+Your SCADA system is now configured and ready to use!
+
+
+
+![image](https://github.com/user-attachments/assets/6f901939-c441-4030-80d7-9e8dbf03f8c5)
+
+![image](https://github.com/user-attachments/assets/6f901939-c441-4030-80d7-9e8dbf03f8c5)
+
+
+![image](https://github.com/user-attachments/assets/b2706388-de3c-4ac9-ad17-307f2fd40f34)
+
+![image](https://github.com/user-attachments/assets/54b928bd-1e81-40d8-bce0-5a6962c4a3de)
+
+
+
+![image](https://github.com/user-attachments/assets/c58a85f1-54ac-4de7-8c99-3a271d31cb1d)
+![image](https://github.com/user-attachments/assets/ccfd3f6b-1374-4441-887f-f4f234f8dfee)
+
+
+
+
+
+
+
+
 
 SAVE AND DIVEDED SCREM :
 
@@ -111,19 +187,9 @@ CLICK ON HMI_CONNECTION
 ![image](https://github.com/user-attachments/assets/6c99c61c-40ad-444e-a690-2f78c24c1188)
 
 
-EXCLUI O Q TAVA E ADD UM COMUNICATION MODULES MANU DIREITA CP IE E ADD WIN CC ADV
-PEGUEI A SCREN 1 E LEVEI PARA ESSE NOVO DEVICE 
-VOU TER Q RECOLOCAR AS VARIAIS NO BUTAO , ALIAS SOMENTE UMA E VOU TER Q RE ENDEREÇAR AS MEMORIAS USADAS NO PLC1 NO MAIS POIS ATIVEI O MEMORY CLOCK AI DA CONFLITO
-
-
-![image](https://github.com/user-attachments/assets/b2706388-de3c-4ac9-ad17-307f2fd40f34)
-
-![image](https://github.com/user-attachments/assets/54b928bd-1e81-40d8-bce0-5a6962c4a3de)
 
 
 
-![image](https://github.com/user-attachments/assets/c58a85f1-54ac-4de7-8c99-3a271d31cb1d)
-![image](https://github.com/user-attachments/assets/ccfd3f6b-1374-4441-887f-f4f234f8dfee)
 
 
 https://www.youtube.com/watch?v=96QfxMVIXyI
