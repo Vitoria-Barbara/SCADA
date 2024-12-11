@@ -98,12 +98,7 @@ Once added, your screen should look like this:
 ![Advanced Setup](https://github.com/user-attachments/assets/67e2f806-7469-4442-97a9-973bb7d16bc3)  
 
 ---
-
-### **Final Testing**  
-
-1. Test the system thoroughly by interacting with the HMI and PLC to ensure functionality.  
-2. Make any necessary adjustments to the logic, communication settings, or buttons.  
-
+https://www.youtube.com/watch?v=96QfxMVIXyI
 ---
 
 Your SCADA system is now successfully configured and ready to use!
