@@ -2,6 +2,10 @@
 
 <video src="https://github.com/Vitoria-Barbara/SCADA/blob/main/assets/SCADA%20demonstration.mp4" controls width="600"></video>
 
+![gif](https://github.com/user-attachments/main/assets/scada%20gif.mp4)
+
+
+
 
 
 # SCADA System in TIA Portal: Step-by-Step Guide  
